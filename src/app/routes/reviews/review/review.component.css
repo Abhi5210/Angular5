@@ -1,0 +1,17 @@
+.review {
+    height: 150px;
+    width: 90%;
+    border-left: 2px solid darkslategray;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+h3 {
+    color : rgb(6, 34, 39);
+}
+ p {
+    color : blie;
+ }
+ h5 {
+     color : black;
+ }
